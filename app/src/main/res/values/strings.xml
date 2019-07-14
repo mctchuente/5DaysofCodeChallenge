@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">5 Days of Code Challenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_main_page">ALC 4 Phase 1</string>
+    <string name="text_welcome_alc">Welcome to ALC 4.0</string>
+    <string name="text_about_alc">About ALC</string>
+    <string name="text_my_profile">My Profile</string>
+    <string name="title_activity_about_alc">About ALC</string>
+    <string name="title_activity_my_profile">My Profile</string>
+    <string name="profile_user_fullname">Bertrand TCHUENTE DJONA</string>
+    <string name="profile_user_track">Track: Android</string>
+    <string name="profile_user_country">Country: Cameroon</string>
+    <string name="profile_user_email">Email: mctchuente@gmail.com</string>
+    <string name="profile_user_phone">Phone number: 237699145518</string>
+    <string name="profile_user_slack_id">Slack username: @mctchuente</string>
+</resources>
